@@ -15,9 +15,9 @@ Machine Learning and Deep Learning requires a huge amount image data for tasks. 
  
 
 ### Dependencies
-spyder 
-python 3.8 
-requests 
+* spyder 
+* python 3.8 
+* requests 
 
 
 ### Executing program
